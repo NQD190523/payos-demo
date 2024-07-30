@@ -1,0 +1,5 @@
+# Bỏ qua tất cả file .log
+*.log
+
+# Bỏ qua thư mục node_modules
+node_modules/
